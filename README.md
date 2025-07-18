@@ -27,13 +27,13 @@ Manter esse espaço me ajuda a acompanhar minha evolução e, quem sabe, também
 
 ## 💻 Tecnologias e linguagens 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,pytorch,tensorflow,c )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,c,mysql,powershell)](https://skillicons.dev)
 
 ## 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,notion,supabase,sublime,docker,aws,gcp,grafana,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,flask,scikitlearn)](https://skillicons.dev)
 
 ## 🛠️ Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,atom,replit,flask,postman,raspberrypi,discord,gmail)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=notion,supabase,sublime,docker,aws,gcp,grafana,git,github,figma,vscode,atom,replit,postman,raspberrypi,discord,gmail)](https://skillicons.dev)
 
 ---
 
